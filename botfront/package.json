@@ -53,7 +53,7 @@
     "fast-crc32c": "^1.0.4",
     "file-saver": "^2.0.2",
     "graphql": "^14.7.0",
-    "graphql-scalars": "^1.1.5",
+    "graphql-scalars": "^1.9.3",
     "graphql-tag": "^2.11.0",
     "graphql-type-json": "^0.3.1",
     "immutable": "^4.0.0-rc.12",
