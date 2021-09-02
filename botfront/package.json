@@ -65,7 +65,7 @@
     "meteor-node-stubs": "^1.0.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
-    "mongoose": "^5.9.3",
+    "mongoose": "^6.0.4",
     "nodegit": "^0.27.0",
     "perf_hooks": "0.0.1",
     "prop-types": "^15.7.2",
