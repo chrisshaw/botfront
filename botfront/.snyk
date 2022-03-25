@@ -1,0 +1,66 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - '@nivo/pie > lodash':
+        patched: '2022-03-25T23:57:25.405Z'
+    - emoji-tree > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - nodegit > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - react-awesome-query-builder > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - react-color > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - react-dates > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - semantic-ui-react > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-bridge-graphql > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-bridge-simple-schema-2 > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-semantic > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - '@nivo/pie > @nivo/legends > lodash':
+        patched: '2022-03-25T23:57:25.405Z'
+    - deep-equal-in-any-order > sort-any > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - rasa-webchat > html-webpack-plugin > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - react-awesome-query-builder > redux > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - react-color > reactcss > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - react-flow-renderer > @welldone-software/why-did-you-render > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - simpl-schema > message-box > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - standard-version > conventional-changelog-conventionalcommits > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-bridge-graphql > uniforms > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-bridge-simple-schema-2 > uniforms > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-semantic > uniforms > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - winston > async > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - '@nivo/line > @nivo/axes > @nivo/scales > lodash':
+        patched: '2022-03-25T23:57:25.405Z'
+    - uniforms-bridge-simple-schema-2 > simpl-schema > message-box > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - standard-version > conventional-changelog > conventional-changelog-conventionalcommits > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - standard-version > conventional-recommended-bump > conventional-commits-parser > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - standard-version > conventional-changelog > conventional-changelog-core > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - standard-version > conventional-changelog > conventional-changelog-core > conventional-changelog-writer > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
+    - standard-version > conventional-changelog > conventional-changelog-core > conventional-commits-parser > lodash:
+        patched: '2022-03-25T23:57:25.405Z'
