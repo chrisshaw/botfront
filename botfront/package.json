@@ -84,7 +84,7 @@
     "react-dnd-html5-backend-cjs": "^9.5.1",
     "react-document-title": "^2.0.3",
     "react-dom": "16.8.6",
-    "react-flow-renderer": "^5.2.0",
+    "react-flow-renderer": "^9.6.1",
     "react-google-recaptcha": "^1.0.5",
     "react-json-view": "^1.21.1",
     "react-moment-proptypes": "^1.7.0",
