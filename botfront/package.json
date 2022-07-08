@@ -63,7 +63,7 @@
     "match-sorter": "^4.0.0",
     "md5": "^2.3.0",
     "meteor-node-stubs": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "mongoose": "^5.9.3",
     "nodegit": "^0.27.0",
