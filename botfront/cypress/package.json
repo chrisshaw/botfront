@@ -11,9 +11,9 @@
   "license": "Apache-2.0",
   "private": true,
   "dependencies": {
-    "@octokit/rest": "^18.0.5",
-    "axios": "^0.21.1",
-    "chai": "^4.2.0",
+    "@octokit/rest": "^19.0.5",
+    "axios": "^1.6.8",
+    "chai": "^4.3.10",
     "glob": "^7.1.6",
     "graphql": "^15.4.0",
     "graphql-tag": "^2.10.3",
