@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "private": true,
   "dependencies": {
-    "@octokit/rest": "^18.0.5",
+    "@octokit/rest": "^21.1.1",
     "axios": "^0.21.1",
     "chai": "^4.2.0",
     "glob": "^7.1.6",
